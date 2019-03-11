@@ -5,7 +5,7 @@
 This Project will guide you to get started with Asp.Net Core and improve your asp.net core skills beginner to advanced level. This tutorial covers the following Asp.Net Core features with examples
 
 ### 1. Getting Started
- - getting Started with Asp.Net Core
+ - Getting Started with Asp.Net Core
  - Introduction to the .NET CLI & Templating
  - Documentation & Community
 
@@ -23,7 +23,7 @@ This Project will guide you to get started with Asp.Net Core and improve your as
  - Razor Pages
  - CRUD
 ### 5. Logging and Diagnostics
- - Logging and Diangnostics
+ - Logging and Diagnostics
 ### 6. Tag Helpers
 ### 7. Entity Framework Core
 ### 8. Authentication and Authorization
