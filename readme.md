@@ -2,7 +2,7 @@
 
 ## Get Started With Asp.Net Core and Deep Dive
 
-This Project will guide you to get started with Asp.Net Core and improve your asp.net core skills beginner to advanced level. This tutorial covers the following Asp.Net Core features with examples
+This Project will guide you to get started with Asp.Net Core and improve your asp.net core skills from beginner to advanced level. This tutorial covers the following Asp.Net Core features with examples
 
 ### 1. Getting Started
  - Getting Started with Asp.Net Core
